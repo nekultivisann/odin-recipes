@@ -1,4 +1,4 @@
-This is first web page I ever created. As it seems, everything went well. At begging, It wasn`t going how I wanted. 
+This is first web page I ever created. As it seems, everything went well. At begging, It wasn not going how I wanted. 
 While making index.html it was fun, but I had few questions, how to do this, or to do that.
 After I made first page for recipes, called Baklava, everything from that point went pretty well fast and without any problems.
 On my second recipe page, called Cevap, it was really smooth, I didn`t make any mistake, and I finished it in no time.
